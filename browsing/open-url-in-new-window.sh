@@ -7,7 +7,7 @@
 # @raycast.packageName Browsing
 #
 # @raycast.icon 🔗
-# @raycast.argument1 { "type": "text", "placeholder": "URL" }
+# @raycast.argument1 { "type": "text", "placeholder": "URL", "optional": true }
 
 Browser="Vivaldi"
 
